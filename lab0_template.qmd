@@ -1,7 +1,7 @@
 ---
 title: "Lab 0: Getting Started with dplyr"
 subtitle: "Your First Data Analysis"
-author: "umair bin saad"
+author: "umair bin saad w"
 date: today
 format: 
   html:
