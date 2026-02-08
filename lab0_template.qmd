@@ -81,7 +81,7 @@ print(car_df)
 
 **Question:** What differences do you notice in how they print?
 
-**Your answer:** [YOUR ANSWER]
+**Your answer:** [In tibble data is left aligned while in regular data frame and display is right aligned. Further more in regular data frame and display the numeric values contains 0 are point while it is not the case in tibble]
 
 # Exercise 2: Basic Column Operations
 
